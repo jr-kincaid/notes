@@ -10,5 +10,6 @@
 
 # Interestings (TBRs/Consumption)
 Collections for Articles, Books, Movies, Music, Shows, etc.
+All [here.](interestings/index.md)
 
 
