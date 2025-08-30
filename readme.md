@@ -1,4 +1,10 @@
-# Content Creators
+# Read Me
+
+## My Learning
+
+[Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer) | [My Repo](https://github.com/jr-kincaid/coursera-introduction-to-front-end-development) | Started: 2025-08-30
+
+## Content Creators
 
 This is mostly for me to remember my journey. But feel free to check out. I have listed them in alphabetical order along with any content I like plus potentially related repos.
 
