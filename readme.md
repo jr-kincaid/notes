@@ -2,7 +2,9 @@
 
 ## My Learning
 
-[Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer) | [My Repo](https://github.com/jr-kincaid/coursera-introduction-to-front-end-development) | Started: 2025-08-30
+[Next.js 12: The Big Picture](https://app.pluralsight.com/ilx/video-courses/bb58dd6b-70b3-4eac-b143-c009d8306a56) | Started: 2025-09-06
+
+[Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer) | Started: 2025-08-30
 
 ## Content Creators
 
